@@ -1,0 +1,21 @@
+.flex-column-container99 {
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  width: 100%;
+  height: 125px;
+  padding-top: 10px;
+  padding-right: 10px;
+  padding-left: 10px;
+  background: url("/assets/image_8dfa5d67.png") 50% / cover no-repeat;
+  border: none;
+  border-radius: 20px 20px 0px 0px;
+}
+.svg-container99 {
+  display: flex;
+  flex: 0 0 auto;
+  width: 32px;
+  height: 32px;
+}

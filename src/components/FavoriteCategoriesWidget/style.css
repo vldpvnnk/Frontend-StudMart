@@ -1,0 +1,148 @@
+.beauty-health-container3 {
+  box-sizing: border-box;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: flex-start;
+  width: 1200px;
+  margin-top: -54px;
+  margin-left: -79px;
+  overflow: hidden;
+}
+.beauty-health-button {
+  box-sizing: border-box;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  width: 150px;
+  min-width: 150px;
+  height: 54px;
+  font: 400 14px Mulish, sans-serif;
+  color: #032c28;
+  cursor: pointer;
+  background: #f8f8f8;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  border-radius: 15px;
+}
+.svg-container3 {
+  display: flex;
+  width: 32px;
+  height: 32px;
+}
+.beauty-and-health-button {
+  box-sizing: border-box;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  width: 234px;
+  min-width: 234px;
+  height: 54px;
+  font: 400 14px Mulish, sans-serif;
+  color: #032c28;
+  cursor: pointer;
+  background: #f8f8f8;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  border-radius: 15px;
+}
+.beauty-health-button4 {
+  box-sizing: border-box;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  width: 125px;
+  min-width: 125px;
+  height: 54px;
+  font: 400 14px Mulish, sans-serif;
+  color: #032c28;
+  cursor: pointer;
+  background: #f8f8f8;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  border-radius: 15px;
+}
+.beauty-health-button1 {
+  box-sizing: border-box;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  width: 227px;
+  min-width: 227px;
+  height: 54px;
+  font: 400 14px Mulish, sans-serif;
+  color: #032c28;
+  cursor: pointer;
+  background: #f8f8f8;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  border-radius: 15px;
+}
+.beauty-health-button3 {
+  box-sizing: border-box;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  width: 141px;
+  min-width: 141px;
+  height: 54px;
+  font: 400 14px Mulish, sans-serif;
+  color: #032c28;
+  cursor: pointer;
+  background: #f8f8f8;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  border-radius: 15px;
+}
+.beauty-health-button2 {
+  box-sizing: border-box;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  width: 115px;
+  min-width: 115px;
+  height: 54px;
+  font: 400 14px Mulish, sans-serif;
+  color: #032c28;
+  cursor: pointer;
+  background: #f8f8f8;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  border-radius: 15px;
+}
+.beauty-health-container1 {
+  box-sizing: border-box;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  min-width: 148px;
+  padding: 15px 20px;
+  background: #f8f8f8;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  border-radius: 15px;
+}
+.svg-container {
+  box-sizing: border-box;
+  display: flex;
+  flex: 0 0 auto;
+  width: 32px;
+  height: 32px;
+}
+.regional-label-text-style {
+  flex: 0 0 auto;
+  padding: 0;
+  margin: 0;
+  font: 400 14px Mulish, sans-serif;
+  color: #032c28;
+}
